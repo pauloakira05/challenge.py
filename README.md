@@ -15,13 +15,21 @@ Victor Capp / 555753
 ## Índice
 
 1.Descrição do Projeto
+
 2.Objetivos do Projeto
+
 3.Status do Projeto
+
 4.Funcionalidades e Demonstração da Aplicação
+
 5.Acesso ao Projeto
+
 6.Tecnologias Utilizadas
+
 7.Pessoas Contribuidoras
+
 8.Pessoas Desenvolvedoras do Projeto
+
 9.Licença
 
 ## Descrição do Projeto
