@@ -1,6 +1,10 @@
 # Interativo Fórmula E
 
+<span align="center">
+  
 ## <img src="![fE py](https://github.com/pauloakira05/challenge.py/assets/162584493/b51ecea4-8335-419d-ab18-51b7131935de) width="30px">
+
+</span>
 
 ## Autores:
 
