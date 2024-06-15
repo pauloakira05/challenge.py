@@ -1,5 +1,7 @@
 # Interativo Fórmula E
 
+![fE py](https://github.com/pauloakira05/challenge.py/assets/162584493/b51ecea4-8335-419d-ab18-51b7131935de)
+
 ## Autores:
 
 Bruno Carneiro Leão / 555563
