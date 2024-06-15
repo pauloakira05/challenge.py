@@ -1,7 +1,7 @@
 # Interativo Fórmula E
 
 <div align="center">
-<img src="https://github.com/pauloakira05/challenge.py/assets/162584493/b51ecea4-8335-419d-ab18-51b7131935de)" width="30px" />
+<img src="https://github.com/pauloakira05/challenge.py/assets/162584493/b51ecea4-8335-419d-ab18-51b7131935de)" width="150px" />
 </div>
 
 ## Autores:
