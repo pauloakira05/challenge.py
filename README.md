@@ -81,7 +81,7 @@ Contato: pauloakira72@gmail.com
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato. Agradecemos seu interesse e esperamos que você aproveite a aplicação Interativo Fórmula E!
 
 
