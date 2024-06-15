@@ -1,10 +1,7 @@
 # Interativo Fórmula E
 
-<span align="center">
-  
-## <img src="![fE py](https://github.com/pauloakira05/challenge.py/assets/162584493/b51ecea4-8335-419d-ab18-51b7131935de)" width="30px">
-
-</span>
+<div align="center">
+<img src="![fE py](https://github.com/pauloakira05/challenge.py/assets/162584493/b51ecea4-8335-419d-ab18-51b7131935de)" width="30px">
 
 ## Autores:
 
@@ -79,7 +76,7 @@ A seção será atualizada à medida que o projeto receber contribuições de ou
 Nome dos Desenvolvedores: Matheus Henriques do Amaral, Bruno Carneiro Leão, Guilherme Melo, Paulo Akira Okama e Victor Capp.
 Contato: pauloakira72@gmail.com
 
-#Licença
+## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
